@@ -15,7 +15,7 @@ to finish up.
   #include <stdio.h>
 int main() {
    // printf() displays the string inside quotation
-   printf("Tyler says, Hello 373!!!");
+   printf("<YOUR NAME> says, Hello 373!!!");
    return 0;
 }
 ```
