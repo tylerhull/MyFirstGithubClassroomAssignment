@@ -3,6 +3,7 @@
 We'll be using Github classroom for homework throughout the term, so this is your chance to get farmiliar with 
 how to access the classroom assignments, clone the repositories, and make commits!
 
+
 # Finishing the Tutorial
 Since you found this link in the Getting Started with Github Classroom tutorial, there are only a few steps left
 to finish up.
@@ -20,6 +21,8 @@ int main() {
 ```
 
   3. Commit your changes to the main branch of your repo!
+  4. Push the changes, and check to make sure they show up.
+
   
 # Going Further
 For more information on how to use Github, check out the guide and Github’s Youtube tutorial series!
